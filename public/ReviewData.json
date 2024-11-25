@@ -1,0 +1,101 @@
+[
+  {
+    "reviewer_name": "John Doe",
+    "reviewer_designation": "Software Engineer",
+    "review_title": "Highly Recommended Platform",
+    "review_text": "I found the counseling sessions very useful. The advice was practical and tailored to my career goals.",
+    "rating": 5.0,
+    "date_of_review": "November 10, 2024",
+    "counseling_type": "Career Counseling",
+    "improvement_suggestions": "A mobile app would make the platform more accessible.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "Sarah Smith",
+    "reviewer_designation": "HR Manager",
+    "review_title": "Valuable Insights",
+    "review_text": "The career guidance I received was spot on. The information helped me make informed decisions about my career path.",
+    "rating": 4.7,
+    "date_of_review": "November 11, 2024",
+    "counseling_type": "Job Search Advice",
+    "improvement_suggestions": "More personalized content would be great.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "Michael Brown",
+    "reviewer_designation": "Graphic Designer",
+    "review_title": "Effective Guidance for Career Growth",
+    "review_text": "I appreciate the detailed approach and the way the counseling process helped me improve my career trajectory.",
+    "rating": 4.9,
+    "date_of_review": "November 8, 2024",
+    "counseling_type": "Career Path Guidance",
+    "improvement_suggestions": "A more interactive user interface would be helpful.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "Emma Green",
+    "reviewer_designation": "Marketing Executive",
+    "review_title": "Professional and Supportive",
+    "review_text": "The counseling provided was professional and aligned with my career aspirations. I feel more confident now.",
+    "rating": 4.6,
+    "date_of_review": "November 6, 2024",
+    "counseling_type": "Interview Preparation",
+    "improvement_suggestions": "Add more resources for self-paced learning.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "Lucas White",
+    "reviewer_designation": "Data Scientist",
+    "review_title": "Clear and Practical Advice",
+    "review_text": "The advice I received was clear and practical. It really helped me understand what steps to take next in my career.",
+    "rating": 4.8,
+    "date_of_review": "November 9, 2024",
+    "counseling_type": "Career Counseling",
+    "improvement_suggestions": "More case studies would be helpful.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "Olivia Johnson",
+    "reviewer_designation": "Business Analyst",
+    "review_title": "Comprehensive and Insightful",
+    "review_text": "I am impressed by how thorough the guidance was. The recommendations are spot on for my career growth.",
+    "rating": 5.0,
+    "date_of_review": "November 7, 2024",
+    "counseling_type": "Career Path Guidance",
+    "improvement_suggestions": "Maybe add a community feature for users to interact.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "David Williams",
+    "reviewer_designation": "Product Manager",
+    "review_title": "Great Career Advice Platform",
+    "review_text": "The platform offers a variety of useful tools to help navigate career challenges. I found the sessions very engaging.",
+    "rating": 4.8,
+    "date_of_review": "November 13, 2024",
+    "counseling_type": "Job Search Advice",
+    "improvement_suggestions": "Would love to see more videos or webinars on career topics.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "Sophia Lee",
+    "reviewer_designation": "Software Developer",
+    "review_title": "Well-Structured and Informative",
+    "review_text": "I gained valuable insights into how to improve my skill set and advance my career through this platform.",
+    "rating": 4.7,
+    "date_of_review": "November 14, 2024",
+    "counseling_type": "Skill Development Advice",
+    "improvement_suggestions": "Add more detailed tutorials on career building.",
+    "profile_picture": "default_avatar"
+  },
+  {
+    "reviewer_name": "James Davis",
+    "reviewer_designation": "Entrepreneur",
+    "review_title": "Excellent Career Support",
+    "review_text": "I am very satisfied with the support provided. The insights into my career choices were extremely valuable.",
+    "rating": 4.9,
+    "date_of_review": "November 15, 2024",
+    "counseling_type": "Entrepreneurship Guidance",
+    "improvement_suggestions": "Would be great if there were more articles or blogs on entrepreneurship.",
+    "profile_picture": "default_avatar"
+  }
+]

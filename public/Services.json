@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/Vj4K9ZK/1.jpg",
+    "subject": "Career Counseling",
+    "category": "Personal Development",
+    "price": "$50",
+    "sender": "John Doe",
+    "body": "Get professional career advice from expert counselors.",
+    "description": "Receive one-on-one counseling sessions to explore your career options and make informed decisions."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/QNkn1JF/2.jpg",
+    "subject": "Resume Building",
+    "category": "Job Preparation",
+    "price": "$30",
+    "sender": "James Smith",
+    "body": "Create a professional resume that stands out.",
+    "description": "Craft a visually appealing and ATS-friendly resume tailored to your career goals."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/4PVW8dq/3.jpg",
+    "subject": "Interview Preparation",
+    "category": "Job Preparation",
+    "price": "$40",
+    "sender": "Michael Brown",
+    "body": "Prepare for your interviews with mock sessions and tips.",
+    "description": "Get expert guidance and practice sessions to build confidence for your job interviews."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/L1vrpX4/4.webp",
+    "subject": "Career Mapping",
+    "category": "Career Planning",
+    "price": "$60",
+    "sender": "David Green",
+    "body": "Map out your career path with the help of a professional counselor.",
+    "description": "Work on long-term strategies to align your career goals with your strengths and interests."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/W6TNjsv/6.jpg",
+    "subject": "Skill Development",
+    "category": "Personal Development",
+    "price": "$45",
+    "sender": "Thomas White",
+    "body": "Enhance your skills with personalized learning plans.",
+    "description": "Access tailored resources and expert advice to upskill and stay competitive."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/7p7Gjxg/5.png",
+    "subject": "Job Search Assistance",
+    "category": "Job Preparation",
+    "price": "$55",
+    "sender": "David Black",
+    "body": "Get help in finding job opportunities and applying to positions.",
+
+    "description": "Navigate the job market with expert guidance to secure your ideal role."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/rZPtX5x/7.jpg",
+    "subject": "Personal Branding",
+    "category": "Career Development",
+    "price": "$70",
+    "sender": "Jason Lee",
+    "body": "Build your personal brand to stand out in your industry.",
+    "description": "Develop a strong personal brand to showcase your unique expertise and values."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/C2tpN5T/8.jpg",
+    "subject": "Networking Skills",
+    "category": "Personal Development",
+    "price": "$40",
+    "sender": "Alan Turner",
+    "body": "Master the art of professional networking and make valuable connections.",
+
+    "description": "Learn techniques to expand your professional network and build lasting relationships."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/mRXMWXz/9.jpg",
+    "subject": "Time Management",
+    "category": "Productivity",
+    "price": "$35",
+    "sender": "Richard Adams",
+    "body": "Improve your productivity with effective time management strategies.",
+    "description": "Adopt proven methods to manage your time effectively and achieve your goals."
+  }
+]
