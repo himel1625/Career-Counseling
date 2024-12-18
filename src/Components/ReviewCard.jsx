@@ -4,7 +4,6 @@ import React, { useEffect, useState } from 'react';
 import { IoIosStarOutline } from 'react-icons/io';
 const ReviewCard = () => {
   const [data, setData] = useState([]);
-
   useEffect(() => {
     fetch('../ReviewData.json')
       .then((res) => res.json())
